@@ -1,0 +1,747 @@
+<nav> tag
+1 Which HTML element defines navigation links?
+<navigation>
+<navigate>
+X <nav>
+<geo>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+
+ 2  How many <nav> elements can a document contain?
+1
+2 
+5
+X  all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav
+
+
+
+<footer> tag
+
+ 3 HTML element that represents a footer for its nearest sectioning content or sectioning root element-
+<a>
+<header>
+<br>
+X  <footer>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+4 What tag can be placed in the <footer>?
+ <ol>
+<ul>
+<address>
+X   all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+5 What tag can not be placed in the <footer>?
+ <ol>
+<h1>
+X <footer>
+  all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
+
+<address> tag
+6 The <address>:
+X  HTML element indicates that the enclosed HTML provides contact information for a person or people, or for an organization.
+  HTML element represents the dominant content of the <body> of a document.
+  HTML element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable
+  HTML element represents a generic standalone section of a document, which doesn't have a more specific semantic element to represent it. 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address
+
+7 select element that cannot be used in <address>
+X  <h1>
+<a>
+<br>
+<p>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address
+
+8 what information cannot contain <address>
+Building K
+Mountain View, CA 94043-0801
+USA
+X published in 2020
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/address
+<form>
+9 Which of the tags below shouldn't be in the <head> section of your page?
+<title>
+<meta>
+X <form>
+ <link>
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/head
+10 How to write an HTML Comment ?
+// This is an HTML comment
+ /* This is an HTML comment */
+X <!-- This is an HTML comment -->
+\\This is an HTML comment
+https://developer.mozilla.org/ru/docs/Web/API/Comment
+
+
+11 The root element of the HTML page is
+div
+ head
+ body
+X html
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html
+
+
+
+<table> tag
+12 Which of these elements are all <table> elements?
+<table><tr><tt>
+X<table><tr><td>
+<thead><body><tr>
+<table><head><tfoot>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+13 How is the structure of a simple table set?
+    X  <TABLE> <CAPTION></CAPTION> <TR><TH></TH></TR> <TR><TD></TD></TR> </TABLE>  
+  <TABLE> <CAPTION></CAPTION> <TD><TR></TR></TD> <TD><TR></TR></TD> </TABLE>  
+  <TABLE> <CAPTION></CAPTION> <TH><TR></TR></TH> <TR><TD></TD></TR> </TABLE>
+<TABLE><CAPTION></CAPTION><TH><TR></TR><TH><TR></TR></TH><TH><TD></TD></TH> </TABLE>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+14 How is a table row set?
+  <td></td>  
+X  <tr></tr>  
+  <th></th>  
+  <caption></caption>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tr
+
+15 What element defines a table cell?
+  <th>  
+  <caption>  
+  <tr>  
+ X <td>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/td
+
+16 Which element sets the title for the table?
+ <caption>  
+X <th>  
+  <tr>  
+  <td>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/th
+
+17 How do I define a table with right-to-left direction?
+ X <TABLE dir="RTL">...</TABLE>  
+ <TABLE dir="LTR">...</TABLE>  
+ <TABLE dir="right">...</TABLE>  
+ <TABLE dir=”left”>…</TABLE>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir
+
+18 How do I define a table with left-to-right direction?
+  <TABLE dir="left">...</TABLE>  
+ X <TABLE dir="LTR">...</TABLE>  
+  <TABLE dir="right">...</TABLE>  
+  <TABLE dir=”LR”>…</TABLE>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/dir
+
+19 How can the title be placed above the table?
+ X  <CAPTION align="top">  
+ <TH align="top">  
+ <CAPTION align="justify">  
+ <TH align="justify">  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption
+
+20 How can the rows of a table be grouped into a "header"?
+X <THEAD><TR>...</THEAD>  
+ <TBODY><TR>...</TBODY>  
+ <TFOOT><TR>...</TFOOT>  
+<TTITLE><TR>...</TTITLE>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+21 How can the rows of a table be grouped into a footer?
+  <THEAD><TR>...</THEAD>  
+  <TBODY><TR>...</TBODY>  
+X  <TFOOT><TR>...</TFOOT>  
+ <TTITLE><TR>...</TTITLE>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table
+
+22 How can you set the number of columns and their width?
+X  <COLGROUP span="40" width="20">  
+  <COLGROUP div="40" width="20">  
+  <COLGROUP col="40" width="20">  
+  <COLGROUP body="40" width="20">  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup
+
+23 How can you describe table nesting?
+X  <TABLE>...<TABLE>...</TABLE>...</TABLE>  
+  <TABLE>...</TABLE>...<TABLE>...</TABLE>  
+ ( <TABLE>...<TABLE>...</TABLE>  
+ <TABLE>...<TABLE>...<TABLE>...</TABLE>  
+https://www.javatpoint.com/html-nested-table
+
+24 What element cannot be described without an end tag?
+ <thead>  
+ <tbody>  
+ <tfoot>  
+X <caption>  
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption
+
+25 What is the correct HTML for inserting a background image?
+<background img="background.gif">
+X <body style="background-image:url(background.gif)">
+<body background=”background.gif”>
+<background.gif">
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/style
+
+26 What is the correct HTML for adding a background color?
+<background>yellow</background>
+X <body style="background-color:yellow;">
+<body bg="yellow">
+<body style bg=”yellow”>
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/style
+
+
+27 Choose the correct HTML element to define important text
+<important>
+<b>
+X<strong>
+<i>
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/strong
+
+28 To Start A List Using Circles, Use
+<ul Type="circle">
+<ul Type="round">
+<ul ="round">
+X <ul "round">
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+
+
+
+
+29 The HTML element marks text that has stress emphasis- 
+ X     <em>
+  <abbr>
+  <strong>
+  <a>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
+
+<abbr> tag
+30 <abbr> - 
+  HTML element creates a hyperlink to web pages, files, email addresses, locations in the same page, or anything else a URL can address.
+X  HTML element represents an abbreviation or acronym
+  HTML element produces a line break in text 
+  HTML element is used to draw the reader's attention to the element's contents, which are not otherwise granted special importance
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr
+
+31 what attribute does <abbr> include
+class
+title
+id
+X all of the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr
+
+<mark> tag 
+32 <mark> is 
+X  HTML element represents text which is marked or highlighted for reference or notation purposes
+ HTML element indicates that its contents have strong importance, seriousness, or urgency
+ HTML element is used to describe a reference to a cited creative work
+ HTML element represents a range of text that is set off from the normal text for some reason
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark
+
+33 where not used <mark>
+<q>
+ <blockquote>
+X syntax highlighting purposes
+<p>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark
+
+<button> tag
+34 <button> is using for
+ is used to define an item contained in a <select>, an <optgroup>, or a <datalist> element
+ represents a control that provides a menu of options
+represents a caption for an item in a user interface
+ X represents a clickable button
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+
+35  what attribute does not  <button> include
+autofocus
+disabled
+name
+X there is no right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+
+36 What do you need for blocking <button> ?
+X disabled
+type
+value
+none
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button
+
+
+
+
+<base> tag
+37 The           HTML element specifies the base URL to use for all relative URLs in a document.
+X base
+href
+src
+basic
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+38 how many <base> elements can there be
+2
+4
+X 1
+3
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+39 what elements does <base> include
+<a>
+<br>
+<footer>
+X there is no right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+40 choose the correct option
+<base href="https://www.example.com/">
+<base target="_blank">
+<base target="_top" href="https://example.com/">
+X all answers are correct
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base#examples
+
+<ol> <ul> tags
+41 The HTML <ol> element is
+X ordered list of items — typically rendered as a numbered list.
+unordered list of items, typically rendered as a bulleted list
+HTML element is used to represent an item in a list
+unordered list of items, each of these represent a link or other command
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol
+
+42 The HTML <ul> element is
+ordered list of items — typically rendered as a numbered list
+X unordered list of items, typically rendered as a bulleted list
+HTML element is used to represent an item in a list
+unordered list of items, each of these represent a link or other command
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+
+43 How many <li> can <ol>/<ul> have
+1
+2
+6
+X How many do you want
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul
+
+44 Can <ul> and <ol> elements be nested?
+Yes
+No
+X elements may be nested as deeply as desired
+elements can only be nested once
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul#usage_notes
+
+45 The <ul> marker can take a different form?
+No
+X can be of several forms
+only circle
+only square
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul#usage_notes
+
+46 What is not related to <ol>?
+X list of random articles
+Steps in a recipe
+Turn-by-turn directions
+The list of ingredients in decreasing proportion on nutrition information labels
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol#usage_notes
+
+<dl> tag
+47 The <dl> is
+X HTML element that represents a description list
+ordered list of items — typically rendered as a numbered list
+unordered list of items, each of these represent a link or other command
+no such tag exists
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
+
+48  What element can have <dl> ?
+<dd>
+<dt>
+<script>
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl
+
+49 how much <dt> can be applied to <dd>
+1
+2
+4
+X how much do you need
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl#examples
+
+50 how much <dd> can be applied to <dt>
+1
+12
+3
+X how much do you need
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dl#examples
+
+51 What element cannot be in the <dt>
+X<header>
+<a>
+<q>
+<strong>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dt
+
+52 What element cannot be in the <dd>
+<header>
+<ruby>
+<s>
+X there is not right answer 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dd
+
+<label> tag
+53 The <label> is
+X HTML element represents a caption for an item in a user interface
+HTML element represents a control that provides a menu of options
+there is no right answer
+no such tag exists
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+
+54 What element can be in the <label>
+<h1>
+<h6>
+<a>
+X <input>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+
+55 Choose the correct option
+<label>Click me <input type="text"></label>
+<label for="username">Click me</label><input type="text" id="username">
+<label><input type="text"></label>
+X all answers are correct
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label
+
+<bdo> tag
+56 The           HTML element overrides the current directionality of text
+X <bdo>
+<dir>
+<script>
+<span>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdo
+
+57 what cannot be contained in the <bdo> tag
+<abbr>
+X <h1>
+<time>
+<q>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/bdo
+
+<ruby> and < rt> tags
+58 The         HTML element represents small annotations that are rendered above, below, or next to base text
+X <ruby>
+<p>
+<abbr>
+<em>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby
+
+59 what cannot be contained in the <ruby> tag
+<mark>
+<math>
+<strong>
+X<body>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby
+
+60 how many times can the <rt> tag be used
+2
+3
+12
+X how much do you need
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/rt
+
+<small> tag
+61 The        HTML element represents side-comments and small print
+X <small>
+<smaller>
+<sm>
+<abbr>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/small
+
+<wbr> tag
+62 The       HTML element represents a word break opportunity
+X <wbr>
+<br>
+<sbr>
+<broken>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr
+
+63 What element can be in the <wbr>
+<a>
+<area>
+<h3>
+X tag empty
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr
+
+<cite>  tag
+64 The       HTML element is used to describe a reference to a cited creative work
+<em>
+<citem>
+X <cite>
+all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite
+
+65 Typically, browsers style the contents of a <cite> element in           by default.
+X  italics
+normal
+oblique
+oblique 40 deg
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite
+
+66  What attribute can be in the <cite>
+class 
+dir 
+id
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite
+
+67 In the context of the <cite> element, a creative work that might be cited could be
+A book
+A research paper
+A poem
+X all the above 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#usage_notes
+
+68 What element can be in the <cite>
+<var>
+<data>
+<time>
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#attributes
+<progress> tag
+ 69 <progress> tag
+The           HTML element displays an indicator showing the completion progress of a task, typically displayed as a progress bar-
+<progress>
+<progressing>
+<prog>
+ there is no right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress
+70  What attributes can be in the <progress>
+<value>
+<max>
+<dir>
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress
+
+71 Choose the correct option
+<progress value="10" max="100">70 %</progress>
+<progress value="70" min="0">70 %</progress>
+<progress value="70" max="100">70 %
+X <progress value="70" max="100">70 %</progress>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/progress
+
+<meter> tag
+72 The HTML element represents either a scalar value within a known range or a fractional value-
+<progress>
+X  <meter>
+<bar>
+<line>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter
+
+73 What attributes can be in the <meter>
+value
+min
+max
+ X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter
+
+74  Choose the correct option
+X <meter min="200" max="500" value="350"></meter>
+<meter max= 500 value= 100> </meter>
+<meter min="100" max="500" value="300">
+<meter min=200 max=500 value=350></meter>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meter#examples
+
+
+<samp> tag 
+75 <samp> is
+X HTML element is used to enclose inline text which represents sample (or quoted) output from a computer program.
+ HTML element is a generic inline container for phrasing content, which does not inherently represent anything
+ HTML element represents a span of inline text denoting textual user input from a keyboard, voice input, or any other text entry device
+ there is no right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp
+
+
+
+
+76 You can nest the       element within a <samp> block to present an example that includes text entered by the user.
+X <kbd>
+<span>
+<input>
+<p>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp#sample_output_including_user_input
+
+77 Note the use of       to allow customization of the appearance of specific portions of the sample text such as the shell prompts and the cursor  inside  <samp>
+X <strong>
+<em>
+<span>
+<cite>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/samp#sample_output_including_user_input
+
+<dfn> tag
+78 The      element is used to indicate the term being defined within the context of a definition phrase or sentence. The <p> element, the <dt>/<dd> pairing, or the <section> element which is the nearest ancestor of the      is considered to be the definition of the term.
+<dfn>
+<df>
+<fn>
+<defn>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn
+
+79 What attributes can not  be in the <dfn>
+<abbr>
+X <dfn>
+<label>
+<q>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dfn
+
+<del> tag
+80 <del> is 
+element represents a range of text that has been deleted from a document.
+element represents a range of text that has been added to a document.
+element is a generic inline container for phrasing content, which does not inherently represent anything
+no such tag exists
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del
+
+
+
+81 Choose the correct option 
+X <p><del>This text has been deleted</del></p>
+<p><del>This text has been deleted</p>
+<p><del>This text has been deleted<del></p>
+all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/del
+
+<ins>
+82 The       HTML element represents a range of text that has been added to a document
+<del>
+<insert>
+X <ins>
+no such tag exists
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins
+
+83 Is it possible to add date to <ins>
+X Yes
+No
+only year 
+only day
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins#attributes
+
+84 Which attribute defines the URI of the resource that explains the change?
+id
+is
+X cite
+there is not right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins#attributes
+
+<sub> tag
+85 How does the <sub> tag transform framed text?
+the tag is converted to lowercase
+does not affect text formatting
+the text is drawn above the baseline of the line
+X the text is drawn below the baseline of the line
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/sub
+
+
+<q> tag
+86  What attributes can be in the <q>
+<canvas>
+<bdo>
+<br>
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q
+
+87 How to specify source document or message for quoted information in <q>
+cite
+href
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/q#attributes
+
+Option()
+88 How can I mark the desired option in the drop-down list (select)?
+<option selected="select">
+<option selected="true">
+<option selected="chosen">
+X <option selected>
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOptionElement/Option
+
++<table>
+89 How to make the table width to Full screen?
+X <table width="100%"></table>
+<table width="fulscreen"></table>
+<table size="100"></table>
+<table width="widescreen"></table>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/table#attributes
+
+<hr/>
+90 Select the tag that creates the content separator horizontal bar.
+<br/>
+X <hr/>
+<separator/>
+<line/>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr
+
+<form> 
+91 ______ indicates whether input elements can by default have their values automatically completed by the browser.
+X autocomplete
+auto
+enctype
+ac
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#attr-autocomplete
+
+92 This Boolean attribute indicates that the form shouldn't be validated when submitted:
+rel
+target
+X novalidate
+method
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form#attr-novalidate
+
+<iframe>
+93 The ____ HTML element represents a nested browsing context, embedding another HTML page into the current one.
+X <iframe>
+<a>
+<input>
+<output>
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+
+94 What element can be in the <iframe>
+<iframe>
+<cite>
+<title>
+X no
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+
+95 What attribute can be in the <iframe>
+width
+height
+src
+X all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe
+
+<portal>
+96 The <portal> is
+X element enables the embedding of another HTML page into the current one for the purposes of allowing smoother navigation into new pages.
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/portal
+
+97  Choose the correct option 
+<portal src="https://example.com/"><portal>
+X <portal id="exampleportal" src="https://example.com/"></portal>
+<portal src="https://example.com/">
+there is not right answer
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/portal#basic_example
+
+98 what is the difference between <portal> and <iframe>
+X the embedded content of a <portal> is more limited than that of an <iframe>
+ the embedded content of a <iframe> is more limited than that of an <portal>
+<portal> and <iframe> are the same
+these are completely different tags
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/portal
+
+srcset
+99 srcset attribute is 
+X  A list of one or more strings separated by commas indicating a set of possible images represented by the source for the browser to use. 
+The URL of the audio to embed.
+A source size value
+there is not right answer
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source#attr-srcset
+
+100  Each string of the srcset is composed of:
+One URL specifying an image
+A width descriptor
+A pixel density descriptor
+X  all the above
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/source#attr-srcset
+
